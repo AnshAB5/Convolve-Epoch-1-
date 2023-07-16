@@ -29,9 +29,11 @@ We would like to acknowledge the organizers of the Cisco hackathon for providing
 
 ## Further Improvements
 
-While the hackathon has concluded, there is always room for further improvements and enhancements to the model and in later stages we swapped out the Sequential model with a Transformer based Model
+While the hackathon has concluded, there is always room for further improvements and enhancements to the model and later I realized that a transformer based architecture would have probably been more accurate.
 
-For more information, please refer to the code files and documentation provided during the hackathon.
-This copy of the notebook got us a rank of 73 out of 2244 registrated participants, it had a test accuracy of 0.92555 in the hidden test dataset
+### This copy of the notebook got us a rank of 73 out of 2244 registrated participants, it had a test accuracy of 0.92555 in the hidden test dataset
+
+For more information, please refer to the code files and documentation provided during the hackathon ->
+https://unstop.com/hackathons/convolve-a-mlai-hackathon-for-the-future-cisco-524330
 
 
