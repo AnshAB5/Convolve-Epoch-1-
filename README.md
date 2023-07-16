@@ -29,7 +29,7 @@ We would like to acknowledge the organizers of the Cisco hackathon for providing
 
 ## Further Improvements
 
-While the hackathon has concluded, there is always room for further improvements and enhancements to the model and perhaps a transformer based model might have been more accurate.
+While the hackathon has concluded, there is always room for further improvements and enhancements to the model.
 
 ### This copy of the notebook got us a rank of 73 out of 2244 registrated participants, it had a test accuracy of 0.92555 in the hidden test dataset
 
